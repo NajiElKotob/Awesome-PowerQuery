@@ -12,6 +12,10 @@
 
 -----
 
+## Tools
+* [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
+
+-----
 ## Articles
 
 ### General
