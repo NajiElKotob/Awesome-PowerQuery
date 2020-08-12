@@ -14,6 +14,8 @@
 
 ## Tools
 * [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
+* [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=Dakahn.PowerQuerySDK) - A Power Query language service for Visual Studio
+
 
 -----
 ## Articles
