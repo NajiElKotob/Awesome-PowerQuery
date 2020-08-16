@@ -12,10 +12,10 @@
 
 -----
 
-## Tools
+## Tools and Add-ins
 * [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
 * [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=Dakahn.PowerQuerySDK) - A Power Query language service for Visual Studio
-
+* [Power Query Source (SSIS)](https://docs.microsoft.com/en-us/sql/integration-services/data-flow/power-query-source)
 
 -----
 ## Articles
