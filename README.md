@@ -9,6 +9,7 @@
 
 ## Blogs
 * [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
+* [Power Query](https://www.powerquery.io/) - powerquery.io
 
 -----
 
