@@ -26,6 +26,9 @@
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
 
+### JSON
+* [How to Parse Custom JSON Data using Excel](https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/)
+
 ### Columns
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
 
