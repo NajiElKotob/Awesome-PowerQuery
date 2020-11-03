@@ -26,17 +26,21 @@
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
 
-### JSON
-* [How to Parse Custom JSON Data using Excel](https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/)
-
 ### Columns
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
-
-### Parameters
-* [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
 
 ### Errors and Diagnostics
 * [Viewing Error Messages For All Rows In Power Query](https://blog.crossjoin.co.uk/2014/12/22/viewing-error-messages-for-all-rows-in-power-query/) - Chris Webb (December 2014)
 * [Awesome Way To Log in Power Query M Using Diagnostics.Trace](https://blog.learningtree.com/awesome-way-log-power-query-m-using-diagnostics-trace/) - Dan Buskirk (June 2016)
+
+### JSON
+* [How to Parse Custom JSON Data using Excel](https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/)
+
+### Remove Duplicates
+* [Remove Duplicate Doesn’t Work in Power Query for Power BI](https://radacad.com/remove-duplicate-doesnt-work-in-power-query-for-power-bi-here-is-the-solution)
+
+### Parameters
+* [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
+
 
 
