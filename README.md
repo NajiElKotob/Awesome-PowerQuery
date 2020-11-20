@@ -45,6 +45,7 @@
 
 -----
 ## M Language
+* [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 
 
