@@ -13,6 +13,12 @@
 * [Power Query](https://www.powerquery.io/) - powerquery.io
 
 -----
+## M Language
+* [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
+* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
+
+
+-----
 
 ## Tools and Add-ins
 * [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
@@ -44,11 +50,6 @@
 ### Parameters
 * [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
 
-
------
-## M Language
-* [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
-* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 
 
 
