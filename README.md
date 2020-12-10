@@ -31,8 +31,9 @@
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
 
 ### Errors and Diagnostics
-* [Viewing Error Messages For All Rows In Power Query](https://blog.crossjoin.co.uk/2014/12/22/viewing-error-messages-for-all-rows-in-power-query/) - Chris Webb (December 2014)
+* [4 Ways to Fix Date Errors in Power Query + Locale & Regional Settings](https://www.excelcampus.com/powerquery/power-query-date-errors-settings/) - Jon Acampora (April 2020)
 * [Awesome Way To Log in Power Query M Using Diagnostics.Trace](https://blog.learningtree.com/awesome-way-log-power-query-m-using-diagnostics-trace/) - Dan Buskirk (June 2016)
+* [Viewing Error Messages For All Rows In Power Query](https://blog.crossjoin.co.uk/2014/12/22/viewing-error-messages-for-all-rows-in-power-query/) - Chris Webb (December 2014)
 
 ### JSON
 * [How to Parse Custom JSON Data using Excel](https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/)
