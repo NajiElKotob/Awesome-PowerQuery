@@ -45,6 +45,7 @@
 * [How to Parse Custom JSON Data using Excel](https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/)
 
 ### Remove Duplicates
+* [Keep The Most Recent Entry](https://www.excelguru.ca/blog/2016/05/25/keep-the-most-recent-entry/) - Ken Puls (May 2016)
 * [Remove Duplicate Doesn’t Work in Power Query for Power BI](https://radacad.com/remove-duplicate-doesnt-work-in-power-query-for-power-bi-here-is-the-solution)
 
 ### Parameters
