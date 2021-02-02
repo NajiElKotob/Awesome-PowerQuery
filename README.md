@@ -48,6 +48,10 @@
 * [Keep The Most Recent Entry](https://www.excelguru.ca/blog/2016/05/25/keep-the-most-recent-entry/) - Ken Puls (May 2016)
 * [Remove Duplicate Doesn’t Work in Power Query for Power BI](https://radacad.com/remove-duplicate-doesnt-work-in-power-query-for-power-bi-here-is-the-solution)
 
+### Splitting
+* [Split by line breaks in Power Query](https://www.excelguru.ca/blog/2015/10/16/split-by-line-breaks/)
+  * Ref. Line feed: #(lf), Carriage return: #(cr), Tab: #(tab)
+
 ### Parameters
 * [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
 
