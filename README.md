@@ -55,6 +55,7 @@
 ### Parameters
 * [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
 
-
+### Images
+* [Embedding Images in Power BI using Base64](http://sqljason.com/2018/01/embedding-images-in-power-bi-using-base64.html) - sqljason.com
 
 
