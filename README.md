@@ -9,8 +9,11 @@
 -----
 
 ## Blogs
+### Power Query
 * [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
 * [Power Query](https://www.powerquery.io/) - powerquery.io
+### Power Query Online
+* [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
 
 -----
 ## M Language
