@@ -62,4 +62,6 @@
 ### Images
 * [Embedding Images in Power BI using Base64](http://sqljason.com/2018/01/embedding-images-in-power-bi-using-base64.html) - sqljason.com
 
+### Web
+* [Handling 404–Not Found Errors With Web.Contents() In Power Query And Power BI](https://blog.crossjoin.co.uk/2016/08/09/handling-404-not-found-errors-with-web-contents-in-power-query-and-power-bi/)
 
