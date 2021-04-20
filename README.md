@@ -8,6 +8,11 @@
 
 -----
 
+## Videos
+* [Power BI Dev Camp March Intro to M Programming](https://www.youtube.com/watch?v=BsgOU9eeCBg)
+
+-----
+
 ## Blogs
 ### Power Query
 * [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
