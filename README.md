@@ -70,3 +70,7 @@
 ### Web
 * [Handling 404–Not Found Errors With Web.Contents() In Power Query And Power BI](https://blog.crossjoin.co.uk/2016/08/09/handling-404-not-found-errors-with-web-contents-in-power-query-and-power-bi/)
 
+-----
+
+### Tips
+*  Underscore _ references to the current row (record) of the table. e.g., #"Removed Columns" = Table.RemoveColumns(#"Changed Type", List.Select(Table.ColumnNames(#"Changed Type"), each Text.EndsWith(_,"Price"))) // remove all columns that end with "Price"
