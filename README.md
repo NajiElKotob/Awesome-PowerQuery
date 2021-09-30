@@ -1,5 +1,5 @@
 # Awesome PowerQuery
-{Work in Process, Stay tuned!}
+{Awesome Works in Progress}
 
 ## YouTube :tv:
 * [Curbal - Power Query](https://www.youtube.com/watch?v=dbTvOk1IyNU&list=PLDz00l_jz6zxF_OSmQhWBCVmQOaROoxWj)
