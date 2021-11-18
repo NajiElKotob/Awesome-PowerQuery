@@ -6,6 +6,8 @@
 * [Pragmatic Works](https://www.youtube.com/user/PragmaticWorks/search?query=Power+Query)
 * [Power Query Jumpstarter](https://www.youtube.com/watch?v=7Vn6uOxcAc0&list=PLHYaVuyjhcqyYD7qss7lsFVBLf8B_zZrx) - Brian Grant
 
+## Connectors
+* [PowerQuery Connectors (GitHub)](https://github.com/MicrosoftDocs/powerquery-docs/tree/main/powerquery-docs/Connectors)
 -----
 
 ## Videos
