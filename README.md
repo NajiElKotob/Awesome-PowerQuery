@@ -1,6 +1,10 @@
 # Awesome PowerQuery
 {Awesome Works in Progress}
 
+`
+Microsoft’s Data Connectivity and Data Preparation technology that lets you seamlessly access data stored in hundreds of sources and reshape it to fit your needs—all with an easy to use, engaging, no-code experience. [learn more](https://powerquery.microsoft.com/)
+`
+
 ## YouTube :tv:
 * [Curbal - Power Query](https://www.youtube.com/watch?v=dbTvOk1IyNU&list=PLDz00l_jz6zxF_OSmQhWBCVmQOaROoxWj)
 * [Pragmatic Works](https://www.youtube.com/user/PragmaticWorks/search?query=Power+Query)
