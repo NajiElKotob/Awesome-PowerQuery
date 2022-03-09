@@ -56,6 +56,7 @@ Microsoft’s Data Connectivity and Data Preparation technology that lets you se
 * Comments
 * Rename
 ### Splitting
+* Delimeters with more than one character e.g., ;;
 ### Columns
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
 
