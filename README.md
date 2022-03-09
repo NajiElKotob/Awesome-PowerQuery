@@ -50,6 +50,11 @@ Microsoft’s Data Connectivity and Data Preparation technology that lets you se
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
 
+### Basic Transformation
+### Organizing
+* Folders
+* Comments
+* Rename
 ### Columns
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
 
