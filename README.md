@@ -64,7 +64,7 @@ Microsoft’s Data Connectivity and Data Preparation technology that lets you se
 * Extract data from file name
 ### Columns
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
-
+* Ghost columns e.g., Empty columns in excel
 ### Errors and Diagnostics
 * [4 Ways to Fix Date Errors in Power Query + Locale & Regional Settings](https://www.excelcampus.com/powerquery/power-query-date-errors-settings/) - Jon Acampora (April 2020)
 * [Awesome Way To Log in Power Query M Using Diagnostics.Trace](https://blog.learningtree.com/awesome-way-log-power-query-m-using-diagnostics-trace/) - Dan Buskirk (June 2016)
