@@ -1,3 +1,3 @@
 # PQ Snippets
 
-* Text.From([Year]) & "W" & Text.PadStart(Text.From([Week of Year]),2,"0")
+* [Text.From](https://docs.microsoft.com/en-us/powerquery-m/text-from)([Year]) & "W" & [Text.PadStart](https://docs.microsoft.com/en-us/powerquery-m/text-padstart)(Text.From([Week of Year]),2,"0")
