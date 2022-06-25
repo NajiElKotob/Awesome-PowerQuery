@@ -96,6 +96,6 @@ Microsoft’s Data Connectivity and Data Preparation technology that lets you se
 
 ### Tips
 *  Underscore _ references to the current row (record) of the table. e.g., #"Removed Columns" = Table.RemoveColumns(#"Changed Type", List.Select(Table.ColumnNames(#"Changed Type"), each Text.EndsWith(_,"Price"))) // remove all columns that end with "Price"
-
+* Add Leading Zeros; Text.End( "000" & Text.From ([MonthNo] ), 4 ), Text.PadStart( Text.From( [MonthNo] ), 4, "0" )
 ### Best Practices
 * [Best practices when working with Power Query](https://docs.microsoft.com/en-us/power-query/best-practices)
