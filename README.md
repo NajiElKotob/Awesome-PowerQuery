@@ -50,11 +50,13 @@ Microsoft’s Data Connectivity and Data Preparation technology that lets you se
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
 
-### Basic Transformation
+## Transformation
 ### Organizing
 * Folders
 * Comments
 * Rename
+### Combine Data
+* [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
 ### Splitting
 * Delimeters with more than one character e.g., ;;
 ### Consolidation
