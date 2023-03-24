@@ -99,6 +99,13 @@ Where the 'M'agic happens!
 
 -----
 
+### Applied Steps
+* Rename (F2)
+* Add Description => // in the M Code
+* Parametrization 
+
+-----
+
 ### Tips
 *  Underscore _ references to the current row (record) of the table. e.g., #"Removed Columns" = Table.RemoveColumns(#"Changed Type", List.Select(Table.ColumnNames(#"Changed Type"), each Text.EndsWith(_,"Price"))) // remove all columns that end with "Price"
 * Add Leading Zeros; Text.End( "000" & Text.From ([MonthNo] ), 4 ), Text.PadStart( Text.From( [MonthNo] ), 4, "0" )
