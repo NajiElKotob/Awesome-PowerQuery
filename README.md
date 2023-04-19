@@ -109,5 +109,6 @@ Where the 'M'agic happens!
 ### Tips
 *  Underscore _ references to the current row (record) of the table. e.g., #"Removed Columns" = Table.RemoveColumns(#"Changed Type", List.Select(Table.ColumnNames(#"Changed Type"), each Text.EndsWith(_,"Price"))) // remove all columns that end with "Price"
 * Add Leading Zeros; Text.End( "000" & Text.From ([MonthNo] ), 4 ), Text.PadStart( Text.From( [MonthNo] ), 4, "0" )
+* Get named range value: Excel.CurrentWorkbook(){[Name=NamedRange]}[Content]{0}[Column1]
 ### Best Practices
 * [Best practices when working with Power Query](https://docs.microsoft.com/en-us/power-query/best-practices)
