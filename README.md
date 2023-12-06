@@ -13,14 +13,16 @@ Where the 'M'agic happens!
 * [Pragmatic Works](https://www.youtube.com/user/PragmaticWorks/search?query=Power+Query)
 * [Power Query Jumpstarter](https://www.youtube.com/watch?v=7Vn6uOxcAc0&list=PLHYaVuyjhcqyYD7qss7lsFVBLf8B_zZrx) - Brian Grant
 
-## Connectors
-* [PowerQuery Connectors (GitHub)](https://github.com/MicrosoftDocs/powerquery-docs/tree/main/powerquery-docs/Connectors)
------
-
 ## Videos
 * [Power BI Dev Camp March Intro to M Programming](https://www.youtube.com/watch?v=BsgOU9eeCBg)
 
+
+
 -----
+
+## Learning
+* [Power Query - Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?products=power-query&source=learn)
+
 
 ## Blogs
 ### Power Query
@@ -28,6 +30,11 @@ Where the 'M'agic happens!
 * [Power Query](https://www.powerquery.io/) - powerquery.io
 ### Power Query Online
 * [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
+
+-----
+
+## Connectors
+* [PowerQuery Connectors (GitHub)](https://github.com/MicrosoftDocs/powerquery-docs/tree/main/powerquery-docs/Connectors)
 
 -----
 ## M Language
