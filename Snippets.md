@@ -1,7 +1,16 @@
 # PQ Snippets
 
+### Quick Snippets
 * [Text.From](https://docs.microsoft.com/en-us/powerquery-m/text-from)([Year]) & "W" & [Text.PadStart](https://docs.microsoft.com/en-us/powerquery-m/text-padstart)(Text.From([Week of Year]),2,"0")
+*  Underscore _ references to the current row (record) of the table. e.g., #"Removed Columns" = Table.RemoveColumns(#"Changed Type", List.Select(Table.ColumnNames(#"Changed Type"), each Text.EndsWith(_,"Price"))) // remove all columns that end with "Price"
+* Add Leading Zeros; Text.End( "000" & Text.From ([MonthNo] ), 4 ), Text.PadStart( Text.From( [MonthNo] ), 4, "0" )
+* Get named range value: Excel.CurrentWorkbook(){[Name=NamedRange]}[Content]{0}[Column1]
+* Last Refreshed Date: DateTime.LocalNow()
 
+## Custom Functions
+
+-----
+### ConvertRuntimeToMinutes
 * To use the function in Power Query, simply add a custom column and apply the function to your runtime column, like this: ConvertRuntimeToMinutes([Runtime]), where ConvertRuntimeToMinutes is the name of the function and [Runtime] is your column name. Examples "2h 22m" => 142, "1h 45m" => 105, "3h" => 180, "45m" => 45.
 ```
 (source as text) as number =>
@@ -25,6 +34,8 @@ in
 ```
 
 -----
+
+### TypeChecker
 * This custom function in Power Query, named TypeChecker, determines the data type of a given column, identifying it as "Text", "Number", "Date", or "Other", and also handles null values by returning "Null".
 
 ```
