@@ -64,3 +64,12 @@ in
 
 ```
 
+#### FilteredQuery
+```
+= Table.SelectRows(Source, each ([DateTypeCheck] <> "Date" 
+or [TextTypeCheck] <> "Text"
+or [NumberGreaterThanCheck] = true
+))
+```
+
+
