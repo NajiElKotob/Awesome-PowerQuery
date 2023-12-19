@@ -23,3 +23,33 @@ in
     result
 
 ```
+
+-----
+* This custom function in Power Query, named TypeChecker, determines the data type of a given column, identifying it as "Text", "Number", "Date", or "Other", and also handles null values by returning "Null".
+
+```
+let
+    // Define the custom function with a parameter
+    TypeChecker = (inputColumn as any) as text =>
+    let
+        // Check if the input is null
+        result = if inputColumn = null then "Null"
+
+                 // If not null, determine the data type
+                 else
+                 let
+                     dataType = Value.Type(inputColumn),
+                     typeResult = if dataType = type text then "Text"
+                                  else if dataType = type number then "Number"
+                                  else if dataType = type datetime or dataType = type date then "Date"
+                                  else "Other"
+                 in
+                     typeResult
+    in
+        result
+in
+    TypeChecker
+
+
+```
+
