@@ -5,7 +5,12 @@
 
 ## UI
 * Quick Access Toolbar (QAT)
+
+## Editor
 * Sort Columns using Choose Columns
+
+## Import
+* Select Folder (All sheets, Excel) or Right-click -> Transform Data (Power BI)
 
 ## Shortcuts
 * ALT + F12 (Opens Power query editor, Excel)
