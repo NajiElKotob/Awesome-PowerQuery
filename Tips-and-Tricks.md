@@ -5,6 +5,7 @@
 
 ## UI
 * Quick Access Toolbar (QAT)
+* Sort Columns using Choose Columns
 
 ## Shortcuts
 * ALT + F12 (Opens Power query editor, Excel)
