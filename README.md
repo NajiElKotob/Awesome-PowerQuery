@@ -94,6 +94,7 @@ Where the 'M'agic happens!
 ### Splitting
 * [Split by line breaks in Power Query](https://www.excelguru.ca/blog/2015/10/16/split-by-line-breaks/)
   * Ref. Line feed: #(lf), Carriage return: #(cr), Tab: #(tab)
+* [When is a space not a space? When Power Query Clean Fails 📺](https://www.youtube.com/watch?v=61qnHOcXvLs); [When Is a Space Not a Space?](https://help.analyticsedge.com/article/when-is-a-space-not-a-space/)
 
 ### Parameters
 * [Dynamic M query parameters ](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters)
