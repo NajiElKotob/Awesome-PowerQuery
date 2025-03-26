@@ -75,6 +75,9 @@ Where the 'M'agic happens!
 * Merging
 * Extract data from file name
 ### Columns
+* Column from examples
+  - [Add a column from examples](https://learn.microsoft.com/en-us/power-query/column-from-example)
+  - [Blown AWAY by Column From Examples in Power Query](https://www.youtube.com/watch?v=BSmmNgO_EOU)
 * [Using M to dynamically change column names in PowerQuery](https://exceed.hr/blog/using-m-to-dynamically-change-column-names-in-powerquery/) - Krešimir Ledinski (October 2020)
 * Ghost columns e.g., Empty columns in excel
 ### Errors and Diagnostics
