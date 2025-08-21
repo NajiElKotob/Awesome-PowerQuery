@@ -72,4 +72,10 @@ or [NumberGreaterThanCheck] = true
 ))
 ```
 
+#### Trim Special Edges
+```
+// Removes leading and trailing characters from the specified list.
+
+= Text.Trim("__- Hello World -,", {",", "-", " ", "_"})
+```
 
