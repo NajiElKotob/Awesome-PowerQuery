@@ -79,3 +79,17 @@ or [NumberGreaterThanCheck] = true
 = Text.Trim("__- Hello World -,", {",", "-", " ", "_"})
 ```
 
+
+#### Remove Last Character
+
+```
+ =
+    Table.TransformColumns(
+        #"Previous Step",
+        {
+            {"Number of Ratings - Copy",
+             each Number.FromText(Text.Start(_, Text.Length(_) - 1)),
+             type number}
+        }
+    )
+```
