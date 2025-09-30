@@ -41,6 +41,7 @@ Where the 'M'agic happens!
 * Comments
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
 * [Fill values in a column](https://learn.microsoft.com/en-us/power-query/fill-values-column) - Fill up, Fill down, Replace values, Filter
+* [Replace values and errors](https://learn.microsoft.com/en-us/power-query/replace-values)
 ### Combine Data
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
 ### Splitting
