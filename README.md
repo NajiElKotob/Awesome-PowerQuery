@@ -25,8 +25,6 @@ Where the 'M'agic happens!
 ### Power Query
 * [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
 * [Power Query](https://www.powerquery.io/) - powerquery.io
-### Power Query Online
-* [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
 
 -----
 
@@ -99,6 +97,9 @@ Where the 'M'agic happens!
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [IF Statements](https://www.myonlinetraininghub.com/power-query-if-statements) - myonlinetraininghub.com
 
+### Best Practices
+* [Best practices when working with Power Query](https://docs.microsoft.com/en-us/power-query/best-practices)
+
 -----
 
 ## Articles
@@ -107,10 +108,11 @@ Where the 'M'agic happens!
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
 
-
-
-
 -----
 
-### Best Practices
-* [Best practices when working with Power Query](https://docs.microsoft.com/en-us/power-query/best-practices)
+## Power Query Online
+* [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
+
+
+
+
