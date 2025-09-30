@@ -36,10 +36,10 @@ Where the 'M'agic happens!
 * Parametrization
 
 
-### Organizing
+### Transform Columns
 * Folders
 * Comments
-* Rename
+* [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
 ### Combine Data
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
 ### Splitting
