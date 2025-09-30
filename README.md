@@ -113,7 +113,6 @@ Where the 'M'agic happens!
 -----
 
 ## Blogs
-### Power Query
 * [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
 * [Power Query](https://www.powerquery.io/) - powerquery.io
 
