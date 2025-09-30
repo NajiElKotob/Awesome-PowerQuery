@@ -9,6 +9,8 @@ Where the 'M'agic happens!
 `
 
 ## YouTube :tv:
+* Kevin Stratvert
+  - [How to use Microsoft Power Query ~16min](https://www.youtube.com/watch?v=0aeZX1l4JT4)
 * [Curbal - Power Query](https://www.youtube.com/watch?v=dbTvOk1IyNU&list=PLDz00l_jz6zxF_OSmQhWBCVmQOaROoxWj)
 * [Pragmatic Works](https://www.youtube.com/user/PragmaticWorks/search?query=Power+Query)
 * [Power Query Jumpstarter](https://www.youtube.com/watch?v=7Vn6uOxcAc0&list=PLHYaVuyjhcqyYD7qss7lsFVBLf8B_zZrx) - Brian Grant
