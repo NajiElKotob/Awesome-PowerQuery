@@ -29,6 +29,7 @@ Where the 'M'agic happens!
 
 ### The Power Query user interface
 * [The Power Query editor user experience](https://learn.microsoft.com/en-us/power-query/power-query-ui#the-power-query-editor-user-experience)
+* [Using the Applied Steps list](https://learn.microsoft.com/en-us/power-query/applied-steps)
 
 ### Applied Steps
 * Rename (F2)
