@@ -32,11 +32,10 @@ Where the 'M'agic happens!
 * [Using the Applied Steps list](https://learn.microsoft.com/en-us/power-query/applied-steps)
   - Rename (F2); Add Description => // in the M Code; Parametrization
 * [Using the Queries pane](https://learn.microsoft.com/en-us/power-query/queries-pane)
+  - Comments; Folders; Order
 
 
 ### Transform Columns
-* Folders
-* Comments
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
 * [Fill values in a column](https://learn.microsoft.com/en-us/power-query/fill-values-column) - Fill up, Fill down, Replace values, Filter
 * [Replace values and errors](https://learn.microsoft.com/en-us/power-query/replace-values)
