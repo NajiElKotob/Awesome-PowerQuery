@@ -40,6 +40,7 @@ Where the 'M'agic happens!
 * Folders
 * Comments
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
+* [Fill values in a column](https://learn.microsoft.com/en-us/power-query/fill-values-column) - Fill up, Fill down, Replace values, Filter
 ### Combine Data
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
 ### Splitting
