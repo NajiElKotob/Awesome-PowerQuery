@@ -23,8 +23,9 @@ Where the 'M'agic happens!
 -----
 ## Learning
 
-### Intro to Power Query
+### Power Query Docs
 * [Power Query - Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?products=power-query&source=learn)
+* [Power Query for Excel Help](https://support.microsoft.com/en-us/office/power-query-for-excel-help-2b433a85-ddfb-420b-9cda-fe0e60b82a94) ⭐
 
 ### The Power Query user interface
 * [The Power Query editor user experience](https://learn.microsoft.com/en-us/power-query/power-query-ui#the-power-query-editor-user-experience)
