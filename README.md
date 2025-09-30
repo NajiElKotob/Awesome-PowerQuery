@@ -17,21 +17,6 @@ Where the 'M'agic happens!
 * Microsoft Power BI
   - [Power BI Dev Camp March Intro to M Programming](https://www.youtube.com/watch?v=BsgOU9eeCBg)
 
------
-
-
-
-## Blogs
-### Power Query
-* [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
-* [Power Query](https://www.powerquery.io/) - powerquery.io
-
------
-
-## Tools and Add-ins
-* [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
-* [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=Dakahn.PowerQuerySDK) - A Power Query language service for Visual Studio
-* [Power Query Source (SSIS)](https://docs.microsoft.com/en-us/sql/integration-services/data-flow/power-query-source)
 
 -----
 ## Learning
@@ -107,6 +92,22 @@ Where the 'M'agic happens!
 * [Power Query Skills Apply to Excel, Power BI and SSAS Tabular](https://sqlserverbi.blog/2017/12/04/power-query-skills-apply-to-excel-power-bi-and-ssas-tabular/)
 * [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
 * [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
+
+-----
+
+
+
+## Blogs
+### Power Query
+* [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/) - Chris Webb
+* [Power Query](https://www.powerquery.io/) - powerquery.io
+
+-----
+
+## Tools and Add-ins
+* [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
+* [Power Query SDK](https://marketplace.visualstudio.com/items?itemName=Dakahn.PowerQuerySDK) - A Power Query language service for Visual Studio
+* [Power Query Source (SSIS)](https://docs.microsoft.com/en-us/sql/integration-services/data-flow/power-query-source)
 
 -----
 
