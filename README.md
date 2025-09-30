@@ -31,11 +31,6 @@ Where the 'M'agic happens!
 * [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
 
 -----
-
-## Connectors
-* [PowerQuery Connectors (GitHub)](https://github.com/MicrosoftDocs/powerquery-docs/tree/main/powerquery-docs/Connectors)
-
------
 ## M Language
 * [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
