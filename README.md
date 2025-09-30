@@ -14,11 +14,8 @@ Where the 'M'agic happens!
 * [Power Query Jumpstarter](https://www.youtube.com/watch?v=7Vn6uOxcAc0&list=PLHYaVuyjhcqyYD7qss7lsFVBLf8B_zZrx) - Brian Grant
 * Goodly
   - [Power Query Tricks n Tips](https://www.youtube.com/playlist?list=PLr7RyN24TvNaQPHeViV3koJrZR_U7UhD4)
-
-## Videos
-* [Power BI Dev Camp March Intro to M Programming](https://www.youtube.com/watch?v=BsgOU9eeCBg)
-
-
+* Microsoft Power BI
+  - [Power BI Dev Camp March Intro to M Programming](https://www.youtube.com/watch?v=BsgOU9eeCBg)
 
 -----
 
