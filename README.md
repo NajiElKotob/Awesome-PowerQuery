@@ -19,8 +19,6 @@ Where the 'M'agic happens!
 
 -----
 
-## Learning
-* [Power Query - Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?products=power-query&source=learn)
 
 
 ## Blogs
@@ -31,13 +29,6 @@ Where the 'M'agic happens!
 * [Visual Data Prep](https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/)
 
 -----
-## M Language
-* [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
-* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
-
-* [IF Statements](https://www.myonlinetraininghub.com/power-query-if-statements) - myonlinetraininghub.com
-
------
 
 ## Tools and Add-ins
 * [Power Query Formatter](https://powerqueryformatter.com/) - Beautify your Power Query (M-Language) Code with Power Query Formatter 
@@ -45,16 +36,17 @@ Where the 'M'agic happens!
 * [Power Query Source (SSIS)](https://docs.microsoft.com/en-us/sql/integration-services/data-flow/power-query-source)
 
 -----
-## Articles
+## Learning
 
-* [Value from previous row, using List.Range](https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/power-bi-data-sources/power-query-get-value-from-previous-row/) - exceltown.com
+### Intro to Power Query
+* [Power Query - Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?products=power-query&source=learn)
 
-### General
-* [Power Query Skills Apply to Excel, Power BI and SSAS Tabular](https://sqlserverbi.blog/2017/12/04/power-query-skills-apply-to-excel-power-bi-and-ssas-tabular/)
-* [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
-* [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
+### Applied Steps
+* Rename (F2)
+* Add Description => // in the M Code
+* Parametrization
 
-## Transformation
+
 ### Organizing
 * Folders
 * Comments
@@ -102,12 +94,21 @@ Where the 'M'agic happens!
 ### Web
 * [Handling 404–Not Found Errors With Web.Contents() In Power Query And Power BI](https://blog.crossjoin.co.uk/2016/08/09/handling-404-not-found-errors-with-web-contents-in-power-query-and-power-bi/)
 
+### M Language
+* [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
+* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
+* [IF Statements](https://www.myonlinetraininghub.com/power-query-if-statements) - myonlinetraininghub.com
+
 -----
 
-### Applied Steps
-* Rename (F2)
-* Add Description => // in the M Code
-* Parametrization 
+## Articles
+* [Value from previous row, using List.Range](https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/power-bi-data-sources/power-query-get-value-from-previous-row/) - exceltown.com
+* [Power Query Skills Apply to Excel, Power BI and SSAS Tabular](https://sqlserverbi.blog/2017/12/04/power-query-skills-apply-to-excel-power-bi-and-ssas-tabular/)
+* [Comparing ‘null’ values in Power Query](http://excel-inside.pro/blog/2018/05/17/comparing-null-values-in-power-query/)
+* [Power Query tips for every Power BI Developer](https://towardsdatascience.com/power-query-tips-for-every-power-bi-developer-da9ebd3dcd93) - Nikola Ilic
+
+
+
 
 -----
 
