@@ -34,6 +34,8 @@ Where the 'M'agic happens!
 * [Using the Queries pane](https://learn.microsoft.com/en-us/power-query/queries-pane)
   - Comments; Folders; Order
 
+### Data types
+* [Data types in Power Query](https://learn.microsoft.com/en-us/power-query/data-types)
 
 ### Transform Columns
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
@@ -46,9 +48,9 @@ Where the 'M'agic happens!
   - [Add a column from examples](https://learn.microsoft.com/en-us/power-query/column-from-example)
   - [Blown AWAY by Column From Examples in Power Query 📺](https://www.youtube.com/watch?v=BSmmNgO_EOU)
 
+### Transform Tables
+* [Unpivot columns](https://learn.microsoft.com/en-us/power-query/unpivot-column)
 
-### Data types
-* [Data types in Power Query](https://learn.microsoft.com/en-us/power-query/data-types)
 
 ### Combine Data
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
