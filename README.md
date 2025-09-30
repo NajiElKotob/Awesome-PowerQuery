@@ -26,6 +26,9 @@ Where the 'M'agic happens!
 ### Intro to Power Query
 * [Power Query - Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?products=power-query&source=learn)
 
+### The Power Query user interface
+* [The Power Query editor user experience](https://learn.microsoft.com/en-us/power-query/power-query-ui#the-power-query-editor-user-experience)
+
 ### Applied Steps
 * Rename (F2)
 * Add Description => // in the M Code
