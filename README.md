@@ -49,6 +49,8 @@ Where the 'M'agic happens!
 * Column from examples
   - [Add a column from examples](https://learn.microsoft.com/en-us/power-query/column-from-example)
   - [Blown AWAY by Column From Examples in Power Query 📺](https://www.youtube.com/watch?v=BSmmNgO_EOU)
+* Index Column
+  - [Add an index column](https://learn.microsoft.com/en-us/power-query/add-index-column)
 
 ### Transform Tables
 * [Unpivot columns](https://learn.microsoft.com/en-us/power-query/unpivot-column)
