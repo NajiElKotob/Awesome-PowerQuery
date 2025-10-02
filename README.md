@@ -104,6 +104,10 @@ Where the 'M'agic happens!
 ### Best Practices
 * [Best practices when working with Power Query](https://docs.microsoft.com/en-us/power-query/best-practices)
 
+
+## Microsoft Learn
+* [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?source=najielkotob)
+
 -----
 
 ## Articles
