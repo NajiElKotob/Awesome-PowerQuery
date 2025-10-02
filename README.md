@@ -37,6 +37,7 @@ Where the 'M'agic happens!
 ### Data types
 * [Data types in Power Query](https://learn.microsoft.com/en-us/power-query/data-types)
 * [4 Ways to Fix Date Errors in Power Query + Locale & Regional Settings 📺 ~10min](https://www.excelcampus.com/powerquery/power-query-date-errors-settings/)
+* [ISO 8601 - Date and time format](https://www.iso.org/iso-8601-date-and-time-format.html) - YYYY-MM-DD e.g., 2022-09-27 18:00:00.000
 
 ### Transform Columns
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
