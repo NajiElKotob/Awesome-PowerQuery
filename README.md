@@ -2,9 +2,7 @@
 {Awesome Works in Progress}
 
 `
-Power Query is a data transformation and data preparation engine.
-`
-Where the 'M'agic happens!
+Power Query is a data transformation and data preparation engine. Where the 'M'agic happens!
 `
 
 ## YouTube :tv:
