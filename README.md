@@ -62,10 +62,8 @@ Where the 'M'agic happens!
 * Delimeters with more than one character e.g., ;;
   
 ### Consolidation
-* Grouping
-* Aggregating
-* Merging
-* Extract data from file name
+* [Grouping or summarizing rows](https://learn.microsoft.com/en-us/power-query/group-by) - Grouping; Aggregating
+
   
 
 
