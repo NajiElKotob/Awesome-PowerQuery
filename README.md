@@ -2,8 +2,7 @@
 {Awesome Works in Progress}
 
 `
-Microsoft’s Data Connectivity and Data Preparation technology that lets you seamlessly access data stored in hundreds of sources and reshape it to fit your needs—all with an easy to use, engaging, no-code experience.` [learn more](https://powerquery.microsoft.com/)
-
+Power Query is a data transformation and data preparation engine.
 `
 Where the 'M'agic happens!
 `
