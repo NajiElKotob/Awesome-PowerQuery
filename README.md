@@ -52,7 +52,7 @@ Where the 'M'agic happens!
 
 ### Transform Tables
 * [Unpivot columns](https://learn.microsoft.com/en-us/power-query/unpivot-column)
-
+* [Working with duplicate values](https://learn.microsoft.com/en-us/power-query/working-with-duplicates)
 
 ### Combine Data
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
