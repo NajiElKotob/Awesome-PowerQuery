@@ -36,6 +36,7 @@ Where the 'M'agic happens!
 
 ### Data types
 * [Data types in Power Query](https://learn.microsoft.com/en-us/power-query/data-types)
+* [4 Ways to Fix Date Errors in Power Query + Locale & Regional Settings 📺 ~10min](https://www.excelcampus.com/powerquery/power-query-date-errors-settings/)
 
 ### Transform Columns
 * [Rename columns](https://learn.microsoft.com/en-us/power-query/rename-column)
