@@ -51,6 +51,7 @@ Where the 'M'agic happens!
   - [Blown AWAY by Column From Examples in Power Query 📺](https://www.youtube.com/watch?v=BSmmNgO_EOU)
 * Index Column
   - [Add an index column](https://learn.microsoft.com/en-us/power-query/add-index-column)
+  - [Create Index Column By Group in Power Query 📺 ~10min](https://www.youtube.com/watch?v=_PBX3RPXxHw) - BI Gorilla
 
 ### Transform Tables
 * [Unpivot columns](https://learn.microsoft.com/en-us/power-query/unpivot-column)
