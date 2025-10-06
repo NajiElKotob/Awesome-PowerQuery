@@ -56,6 +56,7 @@ Power Query is a data transformation and data preparation engine. Where the 'M'a
 * [Filter a table by row position](https://learn.microsoft.com/en-us/power-query/filter-row-position) - Keep/Remove top/bottom rows
 
 ### Combine Data
+* [Merge](https://learn.microsoft.com/en-us/power-query/merge-queries-overview)
 * [Append queries](https://docs.microsoft.com/en-us/power-query/append-queries) - The append operation creates a single table by adding the contents of one or more tables to another.
   
 ### Splitting
