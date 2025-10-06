@@ -110,6 +110,7 @@ Power Query is a data transformation and data preparation engine. Where the 'M'a
 -----
 
 ## Data Modeling
+* [Understand star schema and the importance for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
 * [From Flat File To Data Model 📺 ~11min](https://www.youtube.com/watch?v=vjBprojOCzU) - Guy in a Cube
 
 -----
