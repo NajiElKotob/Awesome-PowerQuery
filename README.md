@@ -109,6 +109,11 @@ Power Query is a data transformation and data preparation engine. Where the 'M'a
 
 -----
 
+## Data Modeling
+* [From Flat File To Data Model 📺 ~11min](https://www.youtube.com/watch?v=vjBprojOCzU) - Guy in a Cube
+
+-----
+
 ## Articles
 * [Value from previous row, using List.Range](https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/power-bi-data-sources/power-query-get-value-from-previous-row/) - exceltown.com
 * [Power Query Skills Apply to Excel, Power BI and SSAS Tabular](https://sqlserverbi.blog/2017/12/04/power-query-skills-apply-to-excel-power-bi-and-ssas-tabular/)
