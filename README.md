@@ -51,6 +51,7 @@ Power Query is a data transformation and data preparation engine. Where the 'M'a
   - [Create Index Column By Group in Power Query 📺 ~10min](https://www.youtube.com/watch?v=_PBX3RPXxHw) - BI Gorilla
 
 ### Transform Tables
+* [Set up your header row](https://support.microsoft.com/en-us/excel/get-started/set-up-your-header-row) - Use first row as headers
 * [Unpivot columns](https://learn.microsoft.com/en-us/power-query/unpivot-column)
 * [Working with duplicate values](https://learn.microsoft.com/en-us/power-query/working-with-duplicates)
 * [Filter a table by row position](https://learn.microsoft.com/en-us/power-query/filter-row-position) - Keep/Remove top/bottom rows
