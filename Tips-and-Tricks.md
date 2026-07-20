@@ -2,6 +2,7 @@
 
 ## M
 * =#shared
+* [CyberChef](https://gchq.github.io/CyberChef) ➡️ i45W8lLSUTI0UorViVbyBTENwExHINPcVCk2FgA= ➡️ From Base64 + Raw Inflate (Unzip)
 
 ## UI
 * Quick Access Toolbar (QAT)
