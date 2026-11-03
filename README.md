@@ -106,7 +106,7 @@ Power Query is a data transformation and data preparation engine. Where the 'M'a
 
 
 ## Microsoft Learn
-* [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?source=najielkotob)
+* [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/?source=najielkotob) ⭐
 
 -----
 
